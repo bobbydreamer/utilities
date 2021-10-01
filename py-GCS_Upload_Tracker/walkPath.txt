@@ -1,0 +1,3 @@
+bucket=sushanth-append-from-local
+pattern=*
+root=./tmp
